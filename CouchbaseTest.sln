@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouchbaseTest", "CouchbaseTest\CouchbaseTest.csproj", "{FB44D6B1-4B08-40FB-A8A9-E1B8962CEC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModel", "DomainModel\DomainModel.csproj", "{EC016ED5-50AD-4512-85CD-951F2ABAAE0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D0346FB8-7C4C-419A-8345-03B9DB19FC39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB44D6B1-4B08-40FB-A8A9-E1B8962CEC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB44D6B1-4B08-40FB-A8A9-E1B8962CEC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB44D6B1-4B08-40FB-A8A9-E1B8962CEC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB44D6B1-4B08-40FB-A8A9-E1B8962CEC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC016ED5-50AD-4512-85CD-951F2ABAAE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC016ED5-50AD-4512-85CD-951F2ABAAE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC016ED5-50AD-4512-85CD-951F2ABAAE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC016ED5-50AD-4512-85CD-951F2ABAAE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0346FB8-7C4C-419A-8345-03B9DB19FC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0346FB8-7C4C-419A-8345-03B9DB19FC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0346FB8-7C4C-419A-8345-03B9DB19FC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0346FB8-7C4C-419A-8345-03B9DB19FC39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
